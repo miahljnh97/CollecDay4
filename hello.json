@@ -1,0 +1,20 @@
+﻿[
+
+  {
+    "name": "hello",
+    "email": "email@email.com"
+  },
+  {
+    "name": "hello1",
+    "email": "email1@email.com"
+  },
+  {
+    "name": "hello2",
+    "email": "email2@email.com"
+  },
+  {
+    "name": "hello3",
+    "email": "email3@email.com"
+  }
+]
+
